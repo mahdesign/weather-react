@@ -62,7 +62,7 @@ export default function App() {
           </div>
           <small>
             <a
-              href="https://github.com/mahdesign/vanila-weather-app"
+              href="https://github.com/mahdesign/weather-react"
               target="_blanck"
             >
               Open-Source code
