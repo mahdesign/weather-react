@@ -10,6 +10,7 @@ export default function Tempreture({ humidity, wind, degree }) {
             <img
               src="http://openweathermap.org/img/wn/02n@2x.png"
               className="float-left"
+              alt="image-react"
             />
             <div className="float-left">
               <strong>{degree}</strong>

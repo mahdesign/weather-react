@@ -10,7 +10,6 @@ export default function Search() {
               type="search"
               placeholder="Type a city ..."
               className="form-control"
-              autocomplete="off"
             />
           </div>
           <div className="col-3">
